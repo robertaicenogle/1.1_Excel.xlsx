@@ -38,7 +38,7 @@ The following are results drawn from Deliverable one (Outcomes vs Launch Date) a
 
 ### Conclusions based on Outcomes based on Goals?
 
-The success and failure of a goal are inversely correlated. Campaigns which had a lower goal were more likely to succeed. Those with goals under $5,000. Generally, the higher the goal, the more likely the campaign was to fail. 
+The success and failure of a goal are inversely correlated. Campaigns which had a lower goal were more likely to succeed. More than 70% of campaigns with goals under $5,000 succeeded. On the other hand, the higher the goal, the more likely the campaign was to fail. 
 
 ### Line Chart Outcomes vs Goals
 ![](Resources/Outcomes_vs_Goals.png)
