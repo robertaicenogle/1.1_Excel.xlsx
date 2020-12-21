@@ -1,17 +1,17 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-The following project is an analysis of fundraiser data using the Excel program. The project includes three major devilerables. An analysis of outcomes based on launch date (included in Excel doc), which primarily used pivot tables. An analysis of outcomes based on goals (also in Excel doc), which utilized various functions, such as COUNTIFS(). The third devilable is the written explanation contained in this readme.
+The following project is an analysis of fundraiser data using the Excel program. The project includes three major devilerables. First, is an analysis of outcomes based on launch date (included in Excel doc), which primarily used pivot tables. Second, is an analysis of outcomes based on goals (also in Excel doc), which utilized various functions, such as COUNTIFS(). The third devilable is the written explanation contained in this readme.
 
 ### Purpose
 Louise came close to reaching her fundraising goal for her play, Fever, in a relatively short period of time. Now, she's interested in learning how other fundraising campaigns fared in relation to launch date and fundraising goals. The purpose of this project is to carry out an analysis of various other fundraising campaigns, in order to provide insight to Louise.
 
 ## Analysis and Challenges
-The following is an an analysis of the two deliverables, and a discussion of the challenges I faced in completing this project.
+The following is an analysis of the two deliverables, and a discussion of the challenges I faced in completing this project.
 
 ### Deliverable 1: Analysis of Outcomes Based on Launch Date
 
-In order to meet address deliverable 1, a pivot table was created in a new worksheet labeled, using the kickstarter data set. Pivot table filters were set to "Parent Category" and "Years." Next, the "Parent Category" was filtered on "theater." The campaign outcomes were sorted in descending order. See the excel sheet below. Finally, the data was visualized in a line graph, displayed in results below.
+In order to meet address deliverable 1, a pivot table was created using the kickstarter data set. Pivot table filters were set to "Parent Category" and "Years." Next, the "Parent Category" was filtered on "theater." The campaign outcomes were sorted in descending order. See the excel sheet below. Finally, the data was visualized in a line graph, displayed in results section below.
 
 ### Excel Sheet: Pivot Table
 ![](Theater_Outcomes_vs_Launch_Excel.png)
@@ -47,22 +47,25 @@ I faced a number of challenges in this assignment. Some were minor stumbles that
 ## Results
 The following are results drawn from Deliverable one (Outcomes vs Launch Date) and Deliverable two (Outcomes based on Goals).
 
-#### Conclusions you can draw about the Outcomes based on Launch Date?
+#### Conclusions: Outcomes vs Launch Date
 
-
+Based on the data, the highest number of successful fundraiser campaigns occured in late spring and early summer. The most successful months were May, then June, and then July, in that order. The least number of successful campaigns occured in December. December is the only month where the number of failures nearly equals the number of successes. The big takeaway is that campaign successes peak in May, then slowly decline throughout the year, before picking up slowly at the beginning of the year.
 
 ### Line Chart Outcomes vs Launch Date
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 
-### Conclusions based on Outcomes based on Goals?
+### Conclusions: Outcomes vs Goals
 
 The success and failure of a goal are inversely correlated. Campaigns which had a lower goal were more likely to succeed. More than 70% of campaigns with goals under $5,000 succeeded. On the other hand, the higher the goal, the more likely the campaign was to fail. Those with goals of $45,000 or more, failed nearly at a rate of nearly 90%. None of these campaigns were canceled.
 
 ### Line Chart Outcomes vs Goals
 ![](Resources/Outcomes_vs_Goals.png)
 
-- What are some limitations of this dataset?
+### Dataset limitations
+- The dataset could have included more information on plays, specifically.
+
+
 
 - What are some other possible tables and/or graphs that we could create?
 There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs.
