@@ -38,6 +38,7 @@ The following are results drawn from Deliverable one (Outcomes vs Launch Date) a
 
 ### Conclusions based on Outcomes based on Goals?
 
+Based on the data, the higher the goal, the more likely the campaign was to fail. Campaigns which had a lower goal were more likely to succeed. 
 
 ### Line Chart Outcomes vs Goals
 ![](Resources/Outcomes_vs_Goals.png)
