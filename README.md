@@ -64,8 +64,7 @@ The success and failure of a goal are inversely correlated. Campaigns which had 
 
 ### Dataset limitations
 - The dataset could have included more information on plays, specifically.
+- There were limited data on cancelations for plays.
 
-
-
+### Other Possible Tables
 - What are some other possible tables and/or graphs that we could create?
-There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs.
