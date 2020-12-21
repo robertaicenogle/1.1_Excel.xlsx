@@ -67,4 +67,5 @@ The success and failure of a goal are inversely correlated. Campaigns which had 
 - There were limited data on cancelations for plays.
 
 ### Other Possible Tables
-- What are some other possible tables and/or graphs that we could create?
+- The analysis could have been expanded to included a comparison of fundraiser campaigns other than for plays. This could provide some interesting insights for Louise.
+- Bar charts could have been used to compare these data.
