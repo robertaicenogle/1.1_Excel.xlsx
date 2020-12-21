@@ -12,13 +12,13 @@ The following is an an analysis of the two deliverables, and a discussion of the
 ### Analysis of Outcomes Based on Launch Date
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
-![](Resources/![](Resources/Theater_Outcomes_vs_Launch_Excel.png)
+![](Resources/![](Theater_Outcomes_vs_Launch_Excel.png)
 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![](Resources/Outcomes_vs_Goals_Excel.png)
+![](Outcomes_vs_Goals_Excel.png)
 
 ![](Resources/Outcomes_vs_Goals.png)
 
