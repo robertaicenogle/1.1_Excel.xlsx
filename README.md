@@ -9,27 +9,38 @@ Louise came close to reaching her fundraising goal for her play, Fever, in a rel
 ## Analysis and Challenges
 The following is an an analysis of the two deliverables, and a discussion of the challenges I faced in completing this project.
 
-### Analysis of Outcomes Based on Launch Date
+### Deliverable 1: Analysis of Outcomes Based on Launch Date
+
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
+### Excel Sheet: Pivot Table
 ![](Theater_Outcomes_vs_Launch_Excel.png)
 
-![](Resources/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Goals
+### Deliverable 2: Analysis of Outcomes Based on Goals
 
+
+### Excel Sheet: Outcomes vs Goals
 ![](Outcomes_vs_Goals_Excel.png)
 
-![](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
 
 ## Results
+The following are results drawn from Deliverable one (Outcomes vs Launch Date) and Deliverable two (Outcomes based on Goals).
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### Conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+### Line Chart Outcomes vs Launch Date
+![](Resources/Theater_Outcomes_vs_Launch.png)
+
+
+### Conclusions based on Outcomes based on Goals?
+
+
+### Line Chart Outcomes vs Goals
+![](Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
