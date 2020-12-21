@@ -35,12 +35,14 @@ In the "Goal" column, dollar amount ranges were created to categorize goal amoun
 
 - =COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$F:$F, "Successful", Kickstarter!$D:$D,"<=4999")
 
+The SUM() function was used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column. Percentages of each were caluculated by dividing "Number Successful," "Number Failed," and "Number Canceled" by "Total Projects," respectively. See excel example below.
+
 ### Excel Sheet: Outcomes vs Goals
 ![](Outcomes_vs_Goals_Excel.png)
 
 
 ### Challenges and Difficulties Encountered
-
+I faced a number of challenges in this assignment. Some were minor stumbles that I just needed another set of eyes to catch. Others required a more in-depth assessment, and more time input. Setting up the pivot table was a process. And figuring out how to use the COUNTIFS() function successfully took me quite a while. 
 
 ## Results
 The following are results drawn from Deliverable one (Outcomes vs Launch Date) and Deliverable two (Outcomes based on Goals).
