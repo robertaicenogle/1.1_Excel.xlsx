@@ -1,4 +1,6 @@
 # An Analysis of Kickstarter Campaigns
+### Excel (xlsm)
+
 
 ## Overview of Project
 The following project is an analysis of fundraiser data using the Excel program. The project includes three major devilerables. First, is an analysis of outcomes based on launch date (included in Excel doc), which primarily used pivot tables. Second, is an analysis of outcomes based on goals (also in Excel doc), which utilized various functions, such as COUNTIFS(). The third devilable is the written explanation contained in this readme.
